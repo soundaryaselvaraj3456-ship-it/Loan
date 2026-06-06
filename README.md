@@ -5,7 +5,7 @@ The Loan Default Prediction System is a data analysis and machine learning proje
 
 This project includes:
 
-    Data preprocessing
+Data preprocessing
     Exploratory Data Analysis (EDA)
     Visualization using Matplotlib, Seaborn, and Plotly
     Risk classification
@@ -14,7 +14,7 @@ This project includes:
 
 Technologies Used
 
-    Python
+ Python
     Pandas
     NumPy
     Matplotlib
@@ -25,7 +25,7 @@ Technologies Used
 
 Features
 
-    Load and analyze loan dataset
+ Load and analyze loan dataset
     Handle missing values
     Perform statistical analysis
     Visualize loan patterns and relationships
@@ -37,7 +37,7 @@ Features
 
 Dataset Columns Used
 
-    LoanAmount
+LoanAmount
     LoanTerm
     InterestRate
     Income
@@ -51,19 +51,19 @@ Linear Regression
 
 The model predicts loan amount based on:
 
-    Income
+  Income
     Interest Rate
     Loan Term
 
 Evaluation Metrics
 
-    R2 Score
+ R2 Score
     Mean Absolute Error (MAE)
     Root Mean Squared Error (RMSE)
 
 Visualizations Included
 
-    Count Plot
+  Count Plot
     Scatter Plot
     Histogram
     Box Plot
@@ -74,7 +74,6 @@ Visualizations Included
 Risk Classification
 
 Interest rates are categorized into:
-
     Low Risk
     Medium Risk
     High Risk
@@ -98,7 +97,7 @@ Output
 
 The system provides:
 
-    Data analysis reports
+   Data analysis reports
     Graphical visualizations
     Loan default insights
     Predicted loan amounts
@@ -106,22 +105,25 @@ The system provides:
 
 Advantages
 
-    Easy to understand
+Easy to understand
     Helpful for loan analysis
     Supports decision making
     Provides visual insights
     Beginner-friendly machine learning project
 
 Future Enhancements
-
     Use advanced ML algorithms
     Add real-time prediction system
     Create web application interface
     Improve prediction accuracy
     Deploy using Flask or Django
 
-Plot Visualizations
-Screenshot 2026-05-26 195345 Screenshot 2026-05-26 195434 Screenshot 2026-05-26 195503 Screenshot 2026-05-26 195541 Screenshot 2026-05-26 195548 Screenshot 2026-05-26 195610 Screenshot 2026-05-26 195617 Screenshot 2026-05-26 195627 Screenshot 2026-05-26 195659 Screenshot 2026-05-26 195717 Screenshot 2026-05-26 195802 Screenshot 2026-05-26 195829 Screenshot 2026-05-26 195915
+<img width="732" height="552" alt="image" src="https://github.com/user-attachments/assets/2095da6f-26fa-4171-a7e3-938ef92e065f" />
+<img width="748" height="536" alt="image" src="https://github.com/user-attachments/assets/ccd05a3d-9b08-43ff-85cc-19a79ff6736b" />
+<img width="725" height="647" alt="image" src="https://github.com/user-attachments/assets/3273fbca-1004-4d34-9c72-70c63e156de2" />
+<img width="765" height="528" alt="image" src="https://github.com/user-attachments/assets/5b2b3fbe-91aa-442d-9b22-a60948cd852e" />
+<img width="758" height="637" alt="image" src="https://github.com/user-attachments/assets/5b738a4c-0e61-4d33-a0e8-ea0d767596bb" />
+
 Conclusion
 
 The Loan Default Prediction System helps analyze borrower information and understand loan default patterns using machine learning and data visualization techniques. It is useful for learning data science, predictive analytics, and financial risk analysis.
