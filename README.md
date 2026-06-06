@@ -78,23 +78,6 @@ Interest rates are categorized into:
     Medium Risk
     High Risk
 
-How to Run the Project
-Step 1: Install Required Libraries
-
-pip install pandas numpy matplotlib seaborn plotly scikit-learn
-
-Step 2: Upload Dataset
-
-Place the dataset file:
-
-Loan_default.csv
-
-Step 3: Run the Python File
-
-python loan_default_prediction.py
-
-Output
-
 The system provides:
 
    Data analysis reports
